@@ -1,4 +1,8 @@
 #include<stdio.h>
+int EngineControl()
+{
+	printf("EngineControl code here");
+}
 
 int main()
 {
